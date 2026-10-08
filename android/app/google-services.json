@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "781100401659",
+    "project_id": "viet-di-app",
+    "storage_bucket": "viet-di-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781100401659:android:bcb35ae668eec94be9415e",
+        "android_client_info": {
+          "package_name": "com.example.viet_di_ghep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgcyTdZ3U0mKKAljg0hMNJFGrAplMV6l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
